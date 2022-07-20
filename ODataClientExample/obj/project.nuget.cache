@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "vWs8vCy7yu+zE7KASJnv7SB4ZjSZ63vOfUNXGPzLdntAZZL2V+PZepjkSsxtXXQRv1fcAZxoMCclyAYCoQFUog==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bnkho\\source\\repos\\ODataClientExample\\ODataClientExample\\ODataClientExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bnkho\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\5.0.0\\microsoft.bcl.asyncinterfaces.5.0.0.nupkg.sha512",
+    "C:\\Users\\bnkho\\.nuget\\packages\\microsoft.odata.client\\7.12.1\\microsoft.odata.client.7.12.1.nupkg.sha512",
+    "C:\\Users\\bnkho\\.nuget\\packages\\microsoft.odata.core\\7.12.1\\microsoft.odata.core.7.12.1.nupkg.sha512",
+    "C:\\Users\\bnkho\\.nuget\\packages\\microsoft.odata.edm\\7.12.1\\microsoft.odata.edm.7.12.1.nupkg.sha512",
+    "C:\\Users\\bnkho\\.nuget\\packages\\microsoft.spatial\\7.12.1\\microsoft.spatial.7.12.1.nupkg.sha512",
+    "C:\\Users\\bnkho\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "C:\\Users\\bnkho\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\bnkho\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\bnkho\\.nuget\\packages\\system.text.json\\6.0.5\\system.text.json.6.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
