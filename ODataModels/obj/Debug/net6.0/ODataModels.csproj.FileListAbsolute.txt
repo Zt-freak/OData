@@ -1,0 +1,12 @@
+C:\Users\bnkho\source\repos\ODataClientExample\ODataModels\bin\Debug\net6.0\ODataModels.deps.json
+C:\Users\bnkho\source\repos\ODataClientExample\ODataModels\bin\Debug\net6.0\ODataModels.dll
+C:\Users\bnkho\source\repos\ODataClientExample\ODataModels\bin\Debug\net6.0\ODataModels.pdb
+C:\Users\bnkho\source\repos\ODataClientExample\ODataModels\obj\Debug\net6.0\ODataModels.csproj.AssemblyReference.cache
+C:\Users\bnkho\source\repos\ODataClientExample\ODataModels\obj\Debug\net6.0\ODataModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bnkho\source\repos\ODataClientExample\ODataModels\obj\Debug\net6.0\ODataModels.AssemblyInfoInputs.cache
+C:\Users\bnkho\source\repos\ODataClientExample\ODataModels\obj\Debug\net6.0\ODataModels.AssemblyInfo.cs
+C:\Users\bnkho\source\repos\ODataClientExample\ODataModels\obj\Debug\net6.0\ODataModels.csproj.CoreCompileInputs.cache
+C:\Users\bnkho\source\repos\ODataClientExample\ODataModels\obj\Debug\net6.0\ODataModels.dll
+C:\Users\bnkho\source\repos\ODataClientExample\ODataModels\obj\Debug\net6.0\refint\ODataModels.dll
+C:\Users\bnkho\source\repos\ODataClientExample\ODataModels\obj\Debug\net6.0\ODataModels.pdb
+C:\Users\bnkho\source\repos\ODataClientExample\ODataModels\obj\Debug\net6.0\ref\ODataModels.dll

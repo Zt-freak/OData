@@ -5,6 +5,10 @@ VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ODataClientExample", "ODataClientExample\ODataClientExample.csproj", "{43ED5F95-13EB-4DB0-B058-83ACF9A7A4B7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ODataService", "ODataService\ODataService.csproj", "{6453E84C-A921-44F7-93BA-547788CD4FC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ODataModels", "ODataModels\ODataModels.csproj", "{DCC1AA5D-1575-431E-88AC-199CA6CACC72}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{43ED5F95-13EB-4DB0-B058-83ACF9A7A4B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{43ED5F95-13EB-4DB0-B058-83ACF9A7A4B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{43ED5F95-13EB-4DB0-B058-83ACF9A7A4B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6453E84C-A921-44F7-93BA-547788CD4FC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6453E84C-A921-44F7-93BA-547788CD4FC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6453E84C-A921-44F7-93BA-547788CD4FC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6453E84C-A921-44F7-93BA-547788CD4FC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCC1AA5D-1575-431E-88AC-199CA6CACC72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCC1AA5D-1575-431E-88AC-199CA6CACC72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCC1AA5D-1575-431E-88AC-199CA6CACC72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCC1AA5D-1575-431E-88AC-199CA6CACC72}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
